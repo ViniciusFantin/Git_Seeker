@@ -43,7 +43,7 @@ const Repos = () => {
   if (!repos && isLoading) return <Loader />;
 
   return (
-    <div className={styles.repo}>
+    <div className={styles.repos}>
       <BackBtn />
       <h2>Explore the user repositories</h2>
       {repos && repos.length === 0 && (
