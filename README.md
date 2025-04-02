@@ -30,5 +30,12 @@
 
 🔗 Cada repositório possui um botão que redireciona para a página do repositório no GitHub.
 
+⚙️ Tecnologias Utilizadas:
+React – Biblioteca para construção da interface do usuário
+
+TypeScript – Superset do JavaScript com tipagem estática
+
+GitHub API – Para consulta de dados dos usuários e repositórios
+
 📌 Objetivo:
 Manipulação de dados assíncronos e renderização dinâmica de conteúdo com foco em experiência do usuário utilizando API.
